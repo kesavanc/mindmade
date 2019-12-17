@@ -1,0 +1,19 @@
+public class opertardemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a=10;
+		int c=30;
+		int s1=a+c;
+		int s2= a-c;
+		int s3=a*c;
+		int s4=a/c;
+		
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s3);
+		System.out.println(s4);
+	}
+
+}
